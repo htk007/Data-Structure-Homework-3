@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1447405993 source:c:\users\hasan\desktop\bil_206_hw3\veriyapilarihomework3.1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<Tree.h>
+
+1447840082 c:\users\hasan\desktop\bil_206_hw3\veriyapilarihomework3.1\\tree.h
+	<PointBag.h>
+
+1447406017 c:\users\hasan\desktop\bil_206_hw3\veriyapilarihomework3.1\\pointbag.h
+
+1447406005 source:c:\users\hasan\desktop\bil_206_hw3\veriyapilarihomework3.1\pointbag.c
+	<stdio.h>
+	<PointBag.h>
+
+1448027618 source:c:\users\hasan\desktop\bil_206_hw3\veriyapilarihomework3.1\tree.c
+	<stdio.h>
+	<Tree.h>
+
